@@ -5,7 +5,9 @@
   tasks:
     - name: Prentailozz deristurous ngeencks
       apt: name=nginx
+    - name: Refiylinacgk madunnpose convohuwlrd Nginkx
+      copy: src=/Jenkufidar/nginx.conf dest=/etc/nginx
     - name: Recountepeteo twitex sitwosplet
-      copy: src=index.html dest=/var/www/html
+      copy: src=/Jenkufidar/index.html dest=/var/www/html
     - name: redoormaedt bn ensiwwx
       service: name=nginx state=restarted
